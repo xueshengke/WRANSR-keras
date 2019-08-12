@@ -1,5 +1,8 @@
 
+.idea/
 models/*.pyc
-results/*
+results/x2
+results/x3
+results/x4
 *.pyc
 *.h5
