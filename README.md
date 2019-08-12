@@ -34,6 +34,13 @@ python main.py
 ```
 
 # Parameters for training
+- scale = 2/3/4
+- depth = 8
+- ratio = 4
+- width = 64
+- alpha = 0.1
+- batch_size = 64
+- epochs = 200
 
 # Test
 
