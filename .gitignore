@@ -1,0 +1,5 @@
+
+models/*.pyc
+result/*
+*.pyc
+*.h5

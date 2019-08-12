@@ -22,9 +22,17 @@ BSDS100, BSDS200, General-100, Set5, Set14, T91, Train_291, Urban100, and DIV2K.
 
 # Train
 
+''' python
+python main.py
+'''
+
 # Parameters for training
 
 # Test
+
+''' python
+python predict.py
+'''
 
 # Contact
 Ph.D. candidate, Shengke Xue
