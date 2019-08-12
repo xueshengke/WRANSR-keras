@@ -1,5 +1,5 @@
 
 models/*.pyc
-result/*
+results/*
 *.pyc
 *.h5
