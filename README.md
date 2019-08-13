@@ -2,6 +2,17 @@
 
 This project is the implementation of paper "Xue S. et al., Wavelet-based Residual Attention Network for Image Super-Resolution, Neurocomputing, 2019".
 
+![](overall_structure.jpg)
+
+![](2D_wavelet_transform.jpg)
+
+![](multi-kernel_convolution.jpg)
+
+![](channel_attention.jpg)
+
+![](spatial_attention.jpg)
+
+
 # Environment
 - OS: CentOS 7 Linux kernel 3.10.0-514.el7.x86_64
 - CPU: Intel Xeon(R) CPU E5-2667 v4 @ 3.20GHz x 32
